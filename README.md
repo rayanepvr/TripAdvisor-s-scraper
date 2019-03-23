@@ -17,9 +17,11 @@ http-router
 go get -u github.com/julienschmidt/httprouter...
 ```
 colly
-```go get -u github.com/gocolly/colly/...
+```
+go get -u github.com/gocolly/colly/...
 ```
 
+You also need to have yarn installed .
 
 ### Build the app
 
