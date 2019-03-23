@@ -32,7 +32,18 @@ go build
 ./server
 ```
 
-Now open the front directory with your favorite IDE and install the dependencies listed inside the package.json file and then do the following commands
+Now open the front directory with your favorite IDE and install the dependencies listed inside the package.json file.
+
+### IMPORTANT
+
+Go to front/node_modules/@zeit/next-css/
+Open css-loader-config.js with a text editor and comment the line 76 
+
+minimize: !dev, become //minimize: !dev,
+
+That's it you're ready to go !
+
+Do thoses commands
 ```
 yarn build
 yarn run
