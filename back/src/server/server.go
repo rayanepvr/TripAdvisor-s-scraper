@@ -10,7 +10,6 @@ import (
     "regexp"
     "encoding/json"
     "strings"
-    	"os"
 
 
 )
@@ -171,7 +170,6 @@ func Hello(w http.ResponseWriter, r *http.Request, ps httprouter.Params) {
     if err != nil {
     	fmt.Println("error:", err)
     }
-    os.Stdout.Write(d)
 
     fmt.Fprintf(w, "%s", string(d))
 
