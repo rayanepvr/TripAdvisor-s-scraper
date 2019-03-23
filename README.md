@@ -32,8 +32,7 @@ go build
 ./server
 ```
 
-Now go inside the front directory and launch 
-
+Now open the front directory with your favorite IDE and install the dependencies listed inside the package.json file and then do the following commands
 ```
 yarn build
 yarn run
