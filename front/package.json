@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "@zeit/next-css": "1.0.1",
+    "next": "8.0.3",
+    "next-images": "^1.1.1",
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "babel-core": "6.26.3",
+    "babel-loader": "8.0.5",
+    "css-loader": "2.1.1",
+    "react-test-renderer": "16.8.4",
+    "style-loader": "0.23.1",
+    "webpack": "4.29.6",
+    "webpack-cli": "3.3.0",
+    "react-helmet-async": "^1.0.2",
+    "react-imported-component": "^5.5.3",
+    "react-router": "^5.0.0",
+    "react-script": "2.0.5",
+    "react-hot-loader": "4.8.0",
+    "eslint-plugin-react-hooks": "^1.5.1",
+    "eslint-plugin-react": "7.12.4",
+    "prop-types": "latest",
+    "axios": "0.18.0"
+  },
+  "scripts": {
+    "dev": "next ",
+    "build": "next build",
+    "start": "next start"
+
+  },
+  "devDependencies": {
+
+  },
+  "jest": {
+    "browser": true
+  }
+
+}

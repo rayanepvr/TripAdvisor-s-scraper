@@ -1,0 +1,43 @@
+:root{
+    --bar-size5:0;
+    --bar-size4:0;
+    --bar-size3:0;
+    --bar-size2:0;
+    --bar-size1:0%;
+
+
+
+
+
+}
+
+#one{
+
+    width : var(--bar-size1);
+
+
+}
+#two{
+
+    width : var(--bar-size2);
+
+
+}
+#three{
+
+    width : var(--bar-size3);
+
+
+}
+#four{
+
+    width : var(--bar-size4);
+
+
+}
+#five{
+
+    width : var(--bar-size5);
+
+
+}
