@@ -7,13 +7,6 @@ This website allow you to see stats from TripAdvisor's Restaurant and Hotels pag
 
 
 
-<!-- toc -->
-<p align="center">
-    <em>
-      <a href="#getting-started">Getting Started</a>
-      
-    </em>
-</p>
 
 ### Dependencies
 
