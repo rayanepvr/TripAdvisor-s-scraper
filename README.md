@@ -2,7 +2,7 @@
 
 <!-- description -->
 <p align="center">
-This website allow you to see stats from TripAdvisor's Restaurant and Hotels pages !
+This website allow you to see stats from TripAdvisor's Restaurant and Hotels pages from TripAdvisor.com 
 </p>
 
 
